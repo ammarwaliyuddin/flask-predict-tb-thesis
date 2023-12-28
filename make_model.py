@@ -1,4 +1,4 @@
-# Kode untuk menghasilkan model Decision Tree Classifier dengan scikit-learn
+# Model Decision Tree Classifier dengan scikit-learn
 # Menggunakan dataset diabetes yang telah dibersihkan
 
 # Mengimpor pustaka yang diperlukan
