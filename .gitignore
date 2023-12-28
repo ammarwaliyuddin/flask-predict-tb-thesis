@@ -1,0 +1,16 @@
+# Ignore Virtual Environment
+venv/
+
+# Ignore Bytecode Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore Visual Studio Code settings (Opsional)
+.vscode/
+
+# Ignore .env file (Opsional)
+.env
+
+# Ignore instance directory (Opsional)
+instance/
